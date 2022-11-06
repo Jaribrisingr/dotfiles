@@ -8,6 +8,7 @@ vim.cmd([[
 set title
 set mouse=a
 set ruler
+set whichwrap+=<,>,[,]
 ]])
 
 -- ident
